@@ -1,5 +1,7 @@
 # Student-Dost
 
+**[▶ Live demo](https://student-dost.vercel.app)**
+
 Student-Dost is a **frontend-only personal management dashboard** built using **HTML, CSS, and JavaScript**.  
 It helps students manage **daily tasks, personal finances, and habits** in a single, simple interface.
 
@@ -112,3 +114,8 @@ Student-Dost focuses entirely on **frontend logic and user experience**.
 All data exists only during the browser session unless extended using LocalStorage.
 
 ---
+
+## Author
+
+Built by **[Kartikeya Yadav](https://github.com/kartikeyajay2006)**.
+[LinkedIn](https://www.linkedin.com/in/kartikeya2006/) · [Portfolio](https://kartikeya-portfolio-rx7w.vercel.app/)
